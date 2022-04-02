@@ -1,0 +1,128 @@
+.warna{
+    background:#4a148c
+}
+
+.divutama{
+    color: blueviolet
+}
+
+.divkedua{
+    color: aquamarine
+}
+
+h1{
+    text-align: center
+}
+
+h2{
+    color: #76ff03
+}
+
+h3{
+    color:#263238
+}
+
+.divutama .divkedua p{
+    color: cornflowerblue
+}
+
+.divutama.divkedua h2{
+    color: teal
+}
+
+.box .row .col-md-3{
+    text-align: center
+}
+
+.box .row .col-md-3 h3{
+    font-size: 20px;
+    color: #565656
+}
+
+.box .row .col-md-3 i{
+    font-size: 30px;
+    color:#2962ff;
+    border:1px solid #2962ff;
+    border-radius: 50em;
+    padding: 10px 10px
+}
+
+.mr-auto .dropdown .i{
+    border: 1px solid #eeeeee;
+    border-radius: 10em;
+    padding: 10px 10px
+}
+
+.btn-primary{
+    background: #304ffe;
+    border-radius: 0
+}
+
+.btn-primary:hover{
+    background: #76ff03;
+    border: none
+}
+
+.carousel{
+    margin-bottom: 20px
+}
+
+.footer{
+    height: 200px;
+    background: #263238;
+    color: #ffffff;
+    margin-top: 20px
+}
+
+.footer .col -md-6{
+    padding: 10px
+}
+
+.footer hr{
+    background: #ffffff
+}
+
+.copyright{
+    height: 30px 0;
+    background-color: white;
+    color: black;
+    text-align: center
+}
+
+.kotak{
+    background:#eeeeee
+}
+
+.kotak-form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #cccccc;
+    padding: 10px;
+    border-radius: 5px
+}
+
+.posisi{
+    position: fixed;
+    left: 20px;
+    top: 30px
+}
+
+.posisi1{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    background: red
+}
+
+.posisi2{
+    height: 10px;
+    width: 10px;
+    background: blue;
+    position: absolute;
+    right: 0;
+    top: 40px
+}
+
+.form-inline{
+    
+}
